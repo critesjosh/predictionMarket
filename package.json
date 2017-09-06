@@ -1,0 +1,25 @@
+{
+  "name": "oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/critesjosh/oracle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/critesjosh/oracle/issues"
+  },
+  "homepage": "https://github.com/critesjosh/oracle#readme",
+  "dependencies": {
+    "truffle-default-builder": "^2.0.0"
+  }
+}
